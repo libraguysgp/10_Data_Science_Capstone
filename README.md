@@ -12,5 +12,6 @@ https://s3.amazonaws.com/coursera-uploads/user-6117f7b05d1330cee9841604/976134/a
 
 - Slide Deck:  
 http://htmlpreview.github.io/?https://github.com/libraguysgp/10_Data_Science_Capstone/blob/master/Data_Science_Capstone_Final_Report.html#/
+
 or  
 http://rpubs.com/libraguysgp/Data_Science_Capstone_Final_Report
